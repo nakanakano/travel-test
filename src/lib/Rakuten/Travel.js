@@ -1,3 +1,6 @@
+/**
+楽天ホテルトラベルapi設定ライブラリ
+**/
 import axios from 'axios';
 
 const URL_BASE = 'https://app.rakuten.co.jp/services/api/Travel/';

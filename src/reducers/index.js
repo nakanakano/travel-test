@@ -1,3 +1,6 @@
+/**
+ reducer
+**/
 import { combineReducers } from 'redux';
 
 const place = (state ='tokyo', action) => {

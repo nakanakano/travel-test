@@ -1,5 +1,8 @@
+/**
+action設定　
+**/
 import { geocode } from '../domain/Geocoder';
- import { searchHotelBy } from '../domain/searchHotelBy';
+import { searchHotelBy } from '../domain/searchHotelBy';
 
 export const setPlace = place => dispatch => dispatch({ type: 'CHANGE_PLACE', place });
 

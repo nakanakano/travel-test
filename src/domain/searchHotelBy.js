@@ -1,3 +1,7 @@
+/**
+楽天apiから情報取得するコンポーネント
+**/
+
 import geolib from 'geolib';
 import Rakuten from '../lib/Rakuten';
 

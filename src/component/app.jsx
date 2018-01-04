@@ -1,3 +1,7 @@
+/**
+ミドルウェア・ルーティング設定
+**/
+
 import React from 'react';
 import
 {

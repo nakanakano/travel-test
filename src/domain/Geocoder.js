@@ -1,3 +1,6 @@
+/**
+googlemap情報取得コンポーネント
+**/
 import axios from 'axios';
 const GEOCODE_ENDPOINT = 'http://maps.googleapis.com/maps/api/geocode/json';
 

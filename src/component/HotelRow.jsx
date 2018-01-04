@@ -1,3 +1,6 @@
+/**
+ホテル情報表示コンポーネント
+**/
 import React from 'react';
 import PropTypes from 'prop-types';
 
